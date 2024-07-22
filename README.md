@@ -10,7 +10,6 @@ ___
 | Language   | Experience |
 | --------   | ---------- |
 | python     | 70%        |
-| javascript | 10%        |
 | java       | 10%        |
 | c          | 5%         |
 | c++        | 5%         |
@@ -19,14 +18,12 @@ ___
 
 ### Skills
 * An Intermediate amount of experience in hacking.
-* An advanced programmer in python.
-* Have a good grip on DataStructures and Algorithms.
-* A great experience in underlying mathematics behind Deep Learning.
+* An Intermediate programmer in python.
 * Worked with Tensorflow, Pytorch, Sklearn e.t.c
 
 ___
 
-### Courses I'm Learning Now:
+### Courses I'm  Intrested in:
 1. Natural Language Processing with Python.
 1. Artificial Intelligence Search Methods for Problem Solving.
 
