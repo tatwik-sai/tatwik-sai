@@ -17,7 +17,7 @@ ___
 ___
 
 ### Skills
-* An Intermediate amount of experience in hacking.
+* An Intrested learner in hacking.
 * An Intermediate programmer in python.
 * Worked with Tensorflow, Pytorch, Sklearn e.t.c
 
