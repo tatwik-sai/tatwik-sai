@@ -16,13 +16,16 @@ ___
 ___
 
 ### Skills
-* An Intrested learner in hacking.
-* An Advanced programmer in python.
+* Automation Using Python
+* Cross-platform app development.
+* Game Development
+* An Interested learner in hacking.
+* An Advanced programmer in Python.
 * Worked with Tensorflow, Pytorch, Sklearn e.t.c
 
 ___
 
-### Courses I'm  Intrested in:
+### Courses I'm  Interested in:
 1. Natural Language Processing with Python.
 1. Artificial Intelligence Search Methods for Problem Solving.
 
