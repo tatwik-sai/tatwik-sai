@@ -7,11 +7,11 @@
 ___
 
 ### Programming Languages
-| Language   | Experience |
-| --------   | ---------- |
-| python     | 90%        |
-| c          | 50%        |
-| java       | 50%        |
+| Language   | Experience    |
+| --------   | ----------    |
+| python     | ⭐⭐⭐⭐⭐  |
+| c          | ⭐⭐⭐⭐     |
+| c++        | ⭐⭐⭐⭐     |
 
 ___
 
