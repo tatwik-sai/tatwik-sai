@@ -25,9 +25,10 @@ ___
 
 ___
 
-### Courses I'm  Interested in:
+### Courses I'm  Taking:
 1. Natural Language Processing with Python.
-1. Artificial Intelligence Search Methods for Problem Solving.
+2. Artificial Intelligence Search Methods for Problem Solving.
+3. Deep Q-Learning.
 
 ___
 
