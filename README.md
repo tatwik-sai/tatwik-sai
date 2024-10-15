@@ -20,7 +20,7 @@ ___
 * Cross-platform app development.
 * Game Development
 * An Interested learner in hacking.
-* An Advanced programmer in Python.
+* A Decent experience with Python.
 * Worked with Tensorflow, Pytorch, Sklearn e.t.c
 
 ___
