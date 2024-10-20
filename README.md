@@ -17,18 +17,18 @@ ___
 
 ### Skills
 * Automation Using Python
-* Cross-platform app development.
-* Game Development
+* Cross-platform app development - Kivy.
+* Web Scrapping.
 * An Interested learner in hacking.
 * A Decent experience with Python.
-* Worked with Tensorflow, Pytorch, Sklearn e.t.c
+* Some basic projects with Tensorflow, Pytorch e.t.c
 
 ___
 
-### Courses I'm  Taking:
-1. Natural Language Processing with Python.
+### Exploring:
+1. Data Analytics with Python.
 2. Artificial Intelligence Search Methods for Problem Solving.
-3. Deep Q-Learning.
+3. Reinforcement Learning.
 
 ___
 
