@@ -2,7 +2,7 @@
 
 ![Hacker Cartoon](https://i.ibb.co/9pvJkrR/pure-white-background-85a2a7fd.jpg)
 
-👋I'm passionate about Hacking and Artificial Intelligence. I would love to collaborate. 
+👋I'm a FullStack Developer passionate about Artificial Intelligence. I would love to collaborate. 
 
 ___
 
