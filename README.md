@@ -12,10 +12,10 @@ Focused on systems programming, backend engineering, and scalable software.
 - **DevOps & Tooling:** Docker, Git, Linux
 
 ## Interests
-- High-performance systems & networking  
-- Distributed backend architectures  
-- Applied AI & retrieval systems  
-- Developer tooling and automation
+- Systems programming and performance-oriented software  
+- Backend engineering and distributed system design  
+- Applied AI, retrieval systems, and LLM tooling  
+- Developer infrastructure, automation, and tooling
 
 ## Links
 - [Portfolio](https://tatwik.vercel.app/) 
