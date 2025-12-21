@@ -2,40 +2,28 @@
 
 ![Hacker Cartoon](https://i.ibb.co/9pvJkrR/pure-white-background-85a2a7fd.jpg)
 
-👋I'm a FullStack Developer passionate about Artificial Intelligence. I would love to collaborate. 
+Computer Science undergraduate at IIIT Bangalore.  
+Focused on systems programming, backend engineering, and scalable software.
 
-___
+## Tech
+- **Languages:** Rust, Python, C/C++, Java, JavaScript  
+- **Frameworks & Technologies:** NextJs, React, Pytorch, Node.js, Express, WebSockets, WebRTC, FAISS 
+- **Databases:** MongoDB, SQL  
+- **DevOps & Tooling:** Docker, Git, Linux
 
-### Programming Languages
-| Language   | Experience    |
-| --------   | ----------    |
-| python     | ⭐⭐⭐⭐⭐  |
-| c          | ⭐⭐⭐⭐     |
-| c++        | ⭐⭐⭐⭐     |
-| javascript  | ⭐⭐⭐⭐ |
+## Interests
+- High-performance systems & networking  
+- Distributed backend architectures  
+- Applied AI & retrieval systems  
+- Developer tooling and automation
 
-___
-
-### Skills
-* Automation Using Python
-* Cross-platform app development - Kivy.
-* Web Scrapping.
-* An Interested learner in hacking.
-* A Decent experience with Python.
-* Some basic projects with Tensorflow, Pytorch e.t.c
-
-___
-
-### Exploring:
-1. Data Analytics with Python.
-2. Artificial Intelligence Search Methods for Problem Solving.
-3. Reinforcement Learning.
-
-___
+## Links
+- [Portfolio](https://tatwik.vercel.app/) 
+- [Linkdin](https://www.linkedin.com/in/tatwik-sai-molleti-0aa96931a/)  
 
 ### Contact me
-* Email - tatwiksaiytchannel@gmail.com
+* Email - molletitatwiksai@gmail.com
 
 
 ### Youtube Channel
-(https://www.youtube.com/@tatwik1042)
+[Youtube](https://www.youtube.com/channel/UCvy6cIO-TtlF41CCdXvdPhA)
