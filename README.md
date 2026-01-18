@@ -1,7 +1,5 @@
 # Welcome
 
-![Hacker Cartoon](https://i.ibb.co/9pvJkrR/pure-white-background-85a2a7fd.jpg)
-
 Computer Science undergraduate at IIIT Bangalore.  
 Focused on systems programming, backend engineering, and scalable software.
 
